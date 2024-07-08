@@ -1,8 +1,9 @@
-Name : Anshuman Raj
-Company : CODTECH IT SOLUTIONS
-ID : CT6WDS404
-Domain : VLSI
-Duration : 15th JUNE 2024 to 30th JULY 2024 Mentor : SRAVANI GOUNI
+## Name : Anshuman Raj
+## Company : CODTECH IT SOLUTIONS
+## ID : CT6WDS404
+## Domain : VLSI
+## Duration : 15th JUNE 2024 to 30th JULY 2024
+## Mentor : SRAVANI GOUNI
 ![image](https://github.com/Anshuman-Raj-07/codtech-task1/assets/163716110/6b27edb6-1a52-4890-97b5-9a22335f523d)
 ![image](https://github.com/Anshuman-Raj-07/codtech-task1/assets/163716110/0f2d7c7a-3986-4e1c-8faa-687a0a0e1060)
 ![image](https://github.com/Anshuman-Raj-07/codtech-task1/assets/163716110/72085cd5-1153-4849-9533-f80818aea39c)
